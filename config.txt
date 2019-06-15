@@ -1,6 +1,6 @@
 owner=413660639668731914
-prefix=2
-game=2play|#Rayn 
+prefix=1
+game=1play|#Rayn 
 stayinchannel=false
 songinstatus=false
 token=NTg5NTA5MjExMzUyNzI3NTgy.XQUxjw.J6J2fo8ThmaidN_TaGnWP33l3xM
